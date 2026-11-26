@@ -12,7 +12,7 @@ Developed and deployed a live website based on client requirements, focusing on 
 - User-friendly interface
 
 ## Tech Stack
-- HTML, CSS, JavaScript (update if different)
+- HTML, CSS, JavaScript 
 
 ## Role
 Handled development, design, and deployment of the website, ensuring it met client requirements and provided a smooth user experience.
